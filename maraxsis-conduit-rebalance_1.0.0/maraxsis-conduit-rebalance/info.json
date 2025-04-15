@@ -4,6 +4,6 @@
      "title": "Maraxsis Conduit Rebalance",
      "author": "Mahso",
      "factorio_version": "2.0",
-     "dependencies": ["base","maraxsis","wret-beacon-rebalance-mod"],
+     "dependencies": ["base","maraxsis","wret-beacon-rebalance-mod-bobs-module-fork"],
      "description": "Rebalances Maraxsis's conduit to fit Wret's Beacon Rebalance mod."
    }
