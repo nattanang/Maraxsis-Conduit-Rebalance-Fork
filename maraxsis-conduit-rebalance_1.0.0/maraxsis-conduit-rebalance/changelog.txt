@@ -1,11 +1,9 @@
+Version: 1.0.0
+Date: 15. 4. 2025
+Initial Release
+Fixing hard code
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: 28. 1. 2025
-  Major Features:
-    - Initial release.
-    - Rebalances the Conduit from Maraxsis to fit with Wret's Beacon Rebalance Mod.
-
-  Features:
-    - The Conduit will always be unlocked after the highest tier of beacon you have enabled.
-    - The Conduit will have a variable amount of module slots and power draw depending on the highest tier of beacon you have enabled.
-    - The Conduit's recipe will change based on the highest enabled tier of beacon.
+Date: 15. 4. 2025
+Initial Release
+---------------------------------------------------------------------------------------------------
